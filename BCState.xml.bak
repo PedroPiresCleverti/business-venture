@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 3 from Scooter Software -->
+<BCState>
+	<TBcState>
+		<FirstStartup Value="False"/>
+		<FormPosStr Value="119;106;1280;724;3"/>
+	</TBcState>
+	<TBrowseState>
+		<FormPosStr Value="452;158;914;610"/>
+	</TBrowseState>
+	<TCheckForUpdatesState>
+		<Build Value="18981"/>
+		<LastChecked Value="2020-06-07 01:10:23"/>
+	</TCheckForUpdatesState>
+	<TDirCompareState>
+		<FormPosStr Value="119;106;1280;724;3"/>
+		<LeftMRUSpecs>
+			<_0 Value="H:\"/>
+			<_1 Value="F:\Backups Pens\Kingston I (2020-06-07)"/>
+			<_2 Value="D:\Backup Pen 32 GB\h"/>
+			<_3 Value="D:\Backup Pen 32 GB"/>
+			<_4 Value="D:\Downloads"/>
+		</LeftMRUSpecs>
+		<RightMRUSpecs>
+			<_0 Value="F:\Backups Pens\Kingston I (2020-06-07)"/>
+			<_1 Value="H:\"/>
+			<_2 Value="\\tsclient\C\Temp\Cursos"/>
+			<_3 Value="F:\"/>
+		</RightMRUSpecs>
+	</TDirCompareState>
+	<THomeState>
+		<FormPosStr Value="119;106;1280;724;3"/>
+		<SessionType Value="TDirCompareSession"/>
+	</THomeState>
+	<TOpCompareState>
+		<Kind Value="ccRulesBased"/>
+	</TOpCompareState>
+	<TOpSyncState>
+		<FormPosStr Value="507;235;892;595"/>
+	</TOpSyncState>
+	<TTextCompareState>
+		<MRUFonts>
+			<_0 Value="Consolas;10"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="D:\Backup I\Medusa\C\Sage Data\NEW-SED-310315.dat"/>
+		</RightMRUSpecs>
+	</TTextCompareState>
+</BCState>
